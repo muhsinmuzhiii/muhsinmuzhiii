@@ -8,7 +8,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Kochi%2C%20Kerala-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-muhsin-040713377/)
-[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinsinu053@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedmuhsinpalathingal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhsinmuzhiii)
 
 <br/>
@@ -212,7 +212,7 @@ open_to:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-muhsinsinu053%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinsinu053@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-muhsinsinu053%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedmuhsinplathingal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Muhsin%20P-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-muhsin-040713377/)
 [![GitHub](https://img.shields.io/badge/GitHub-muhsinmuzhiii-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhsinmuzhiii)
 
