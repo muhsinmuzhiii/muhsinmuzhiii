@@ -13,8 +13,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhsinmuzhiii&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/muhsinmuzhiii?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github)
+
 ![Stars](https://img.shields.io/github/stars/muhsinmuzhiii?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&logo=github)
 
 </div>
