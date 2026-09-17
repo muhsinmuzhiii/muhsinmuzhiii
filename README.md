@@ -6,7 +6,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Kozhikode%2C%20Kerala-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Kochi%2C%20Kerala-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-muhsin-040713377/)
 [![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinsinu053@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhsinmuzhiii)
@@ -26,7 +26,7 @@
 ```yaml
 name: "Muhammed Muhsin P"
 role: "Full Stack Developer (Fresher)"
-location: "Kozhikode, Kerala, India"
+location: "Kochi, Kerala, India"
 focus: "Python & Django backend development, full stack web apps"
 training: "Completed Python & Django Full Stack training at TheFuturaLabs"
 status: "Actively seeking full stack / backend developer opportunities"
